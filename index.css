@@ -1,0 +1,132 @@
+@font-face {
+    font-family: archive;
+    src: url(../giphyAPI/Archive-Regular.ttf);
+}
+
+html {
+    background: #121212;
+    background-size: cover;
+    font-family: archive;
+    margin: 1rem;
+    border: 1px transparent;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px;
+    background-color: #121212;
+    background-size: auto;
+}
+
+.wrapper {
+    background: #121212;
+    background-size: cover;
+    font-family: archive;
+}
+
+.getStarted{
+    text-align: center;
+    font-family: archive;
+    background: #121212;
+    color: blanchedalmond;
+}
+
+.col-sm-3 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.col-sm-2 {
+    margin: auto;
+    font-family: interface, Helvetica Neue, helvetica, sans-serif;
+}
+
+.col-sm-5 {
+    display: fixed;
+    flex-direction: column;
+    position: fixed;
+    -ms-flex: 0 0 16.666667%;
+    margin: 1rem;
+    border: 1px transparent;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px;
+}
+
+img.otherclass {
+    margin: auto;
+}
+
+
+.dyQypj {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px 0px;
+    height: 3px;
+    opacity: 0.8;
+    background: rgb(97, 87, 255)
+}
+
+.iarkkR {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px 0px;
+    height: 6px;
+    margin: 0px 6px;
+    opacity: 0.6;
+    background: rgb(97, 87, 255)
+}
+
+.faRvJV {
+    height: 6px;
+    margin: 0px 12px;
+    opacity: 0.4;
+    background: rgb(97, 87, 255)
+}
+
+h1.display-4 {
+    margin: 16px 16px 0px 16px;
+    border: 1px transparent;
+    border-radius: 10px 10px 0px 0px;
+    padding: 15px 5px 0px 5px;
+    background-color: rgb(97, 87, 255);
+    background-size: auto;
+}
+
+
+h1.display-6 {
+    margin: 16px 16px 0px 16px;
+    border: 1px transparent;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px 5px 0px 5px;
+    background-color: rgb(97, 87, 255);
+    background-size: auto;
+    opacity: 0.8;
+}
+
+.welcomeFlair{
+    border: 0px transparent;
+    border-radius: 10px 10px 20px 20px;
+    padding: 0px 16px 0px 16px;
+}
+.thisPageFlair{
+    border: 0px transparent;
+    border-radius: 10px 10px 20px 20px;
+    padding: 0px 16px 0px 16px;
+}
+.jumbotron {
+    font-family: archive;
+    background: url('https://i.giphy.com/media/OuwYj5XaGu2yc/giphy.webp') center center;
+    background-size: 90%;
+    height: 23vh;
+    color: black;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    margin: 1rem;
+    border: 1px transparent;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px;
+    background-color: rgb(97, 87, 255);
+    background-size: auto;
+};
+
+
+/* .h3 {
+    color: blanchedalmond
+} */
+
+
+
+/* https://i.giphy.com/media/OuwYj5XaGu2yc/giphy.webp */
